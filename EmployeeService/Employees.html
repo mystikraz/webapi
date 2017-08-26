@@ -13,7 +13,7 @@
 
                 $.ajax({
                     type: 'GET',
-                    url: 'api/Employees',
+                    url: 'http://localhost:8072/api/employees',
                     datatype: 'json',
                     headers: {
                         'Authorization':'Basic '+ btoa(username + ':' + password)
