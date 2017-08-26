@@ -1,0 +1,6 @@
+E:\Aayushma\Visual Studio Projects\EmployeeService\Client1\bin\Client1.dll.config
+E:\Aayushma\Visual Studio Projects\EmployeeService\Client1\bin\Client1.dll
+E:\Aayushma\Visual Studio Projects\EmployeeService\Client1\bin\Client1.pdb
+E:\Aayushma\Visual Studio Projects\EmployeeService\Client1\obj\Debug\Client1.dll
+E:\Aayushma\Visual Studio Projects\EmployeeService\Client1\obj\Debug\Client1.pdb
+E:\Aayushma\Visual Studio Projects\EmployeeService\Client1\obj\Debug\Client1.csprojResolveAssemblyReference.cache

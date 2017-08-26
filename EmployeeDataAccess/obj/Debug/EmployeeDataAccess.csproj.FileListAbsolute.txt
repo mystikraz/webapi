@@ -1,0 +1,10 @@
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+E:\Aayushma\Visual Studio Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
